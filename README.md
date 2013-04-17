@@ -17,11 +17,14 @@ Features
 ---
 
 ![](README.img/2.jpg)
+
 by the way the codes is from this [feedback](http://feedback.photoshop.com/photoshop_family/topics/photoshop_feature_request_remove_unused_layer_styles)
 
 Install
 ---
 ![](README.img/3.jpg)
+
+[ZXP](https://github.com/RayPS/Remove-Unused-FX/blob/master/Remove%20Unused%20FX.zxp)
 
 Open this .zxp to install it,
 
