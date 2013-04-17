@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="zh_CN" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/ActionScript/Script/desc###2" translate="yes">
+    <val>Remove Unused FX</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###1" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Attribute/visible/value###3" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/FlyoutMenu/about" translate="yes">
+    <val>关于</val>
+  </str>
+</asf>
