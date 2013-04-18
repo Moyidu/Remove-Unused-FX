@@ -24,13 +24,12 @@ Install
 ---
 ![](README.img/3.jpg)
 
-[ZXP](https://github.com/RayPS/Remove-Unused-FX/blob/master/Remove%20Unused%20FX.zxp)
 
-Open this .zxp to install it,
+Open this [.ZXP](Remove%20Unused%20FX.zxp) to install it,
 
 double click it and Adobe extension manager should show up automatically .
 
-it's easy,i'm you can do it.
+it's easy,i'm sure you can do it.
 
 Last step
 ---
