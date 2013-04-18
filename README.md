@@ -17,13 +17,14 @@ Features
 ---
 
 ![](README.img/2.jpg)
+
 by the way the codes is from this [feedback](http://feedback.photoshop.com/photoshop_family/topics/photoshop_feature_request_remove_unused_layer_styles)
 
 Install
 ---
 ![](README.img/3.jpg)
 
-[Open this .zxp](Remove%20Unused%20FX.zxp) to install it,
+Open this [.ZXP](Remove%20Unused%20FX.zxp) to install it,
 
 double click it and Adobe extension manager should show up automatically .
 
